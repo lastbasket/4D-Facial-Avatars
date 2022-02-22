@@ -13,7 +13,7 @@ decorator==4.4.2
 ffmpeg==1.4
 freetype-py==2.2.0
 google-auth-oauthlib==0.4.1
-gpustat==0.6.0
+gpustat==0.4.0
 grpcio==1.27.2
 idna==2.9
 imageio==2.8.0
@@ -26,7 +26,7 @@ oauthlib==3.0.1
 olefile==0.46
 opencv-python-headless==4.4.0.40
 Pillow==7.1.2
-protobuf==3.12.2
+protobuf==3.11.3
 psutil==5.7.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
@@ -47,6 +47,11 @@ scipy==1.5.2
 six==1.14.0
 tensorboard==2.1.1
 
+torch==1.9.0+cu115
+torchvision==0.10.0+cu115
+torchaudio==0.9.0
+setuptools==59.5.0
+pytorch3d
 
 
 
